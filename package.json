@@ -1,0 +1,10 @@
+{
+  "name": "diariodifede-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "App Diario di Fede",
+  "scripts": {
+    "build": "echo ok"
+  },
+  "dependencies": {}
+}
